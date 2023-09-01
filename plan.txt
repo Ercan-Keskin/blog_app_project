@@ -49,6 +49,4 @@ time_stamp
 
 15- +Her kullanıcı kendi yorumunu düzenleyebilecek herkesin yorumunu görüntüleyebilecek 
 
-28.08.2023
-16- Views tekrar edilecek, permissionda belirlenen yerlere tekrar bakacağız.
-
+16- Finished :D
