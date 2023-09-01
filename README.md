@@ -7,7 +7,8 @@
 •    We achieved success in this project with a good teamwork organization.
 •    I would like to thank my dear backend trainer Pakize K. and my teammates for their efforts.
 
-To access the Live of the Project: <a href=”http://eiknCosmios.pythonanywhere.com/admin/"></a>
+To access the Live of the Project: <a href="http://eiknCosmios.pythonanywhere.com/admin/" target="_blank">User Panel</a>
+
 
                                   ---------------------
                                   | superuser = admin |
@@ -18,7 +19,7 @@ To access the Live of the Project: <a href=”http://eiknCosmios.pythonanywhere.
 •    Blog yazılarını eklemek, silmek ve güncellemek mümkündür. 
 •    Projede veri depolamak için PostgreSQL veritabanı kullanıldı, iyi bir ekip çalışması organizasyonuyla bu projede başarıya ulaştık. 
 •    Değerli backend eğitmenim Pakize K. Hocama ve ekip arkadaşlarıma, emeklerinden dolayı teşekkür ediyorum.
-•    Projenin canlı hali kullanıcı adı ve şifresi aşşağıdadır.
+•    Projenin canlı hali kullanıcı adı ve şifresi aşşağıdadır. <a href="http://eiknCosmios.pythonanywhere.com/admin/" target="_blank">User Panel</a>
 
 
                                   ---------------------
