@@ -1,5 +1,5 @@
 # blog_app_project
-
+<span style="color:red;">
                                                                                                               
 •	 In this project, it is aimed to create blog posts using django as backend and display them on the dashboard. 
 •    It is possible to add, delete and update blog posts. PostgreSQL database was used in the project.
@@ -9,6 +9,7 @@
 
 To access the Live of the Project:<a href="http://eiknCosmios.pythonanywhere.com/admin/" target="_blank">User Panel</a>
 
+</span>
 
 
                                   ---------------------
