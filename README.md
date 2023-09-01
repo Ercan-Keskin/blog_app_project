@@ -34,5 +34,5 @@ Projenin canlıya alınmış hali: <a href="http://eiknCosmios.pythonanywhere.co
 
 # blog_app_project_
 <h2> ERD </h2>  
-<img src="https://github.com/Ercan-Keskin/shopping/raw/main/ERD.png" alt="Model" style="max-width: 50%">
+<img src="https://github.com/Ercan-Keskin/blog_app_project/blob/main/ERD.png" alt="Model" style="max-width: 50%">
 
