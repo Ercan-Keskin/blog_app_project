@@ -30,3 +30,9 @@ Projenin canlıya alınmış hali: <a href="http://eiknCosmios.pythonanywhere.co
                                   | superuser = admin |
                                   | password = 1834   |
                                   ---------------------
+
+
+
+<h2> ERD </h2>  
+![Model](https://github.com/Ercan-Keskin/shopping/blob/main/ERD.png) 
+
