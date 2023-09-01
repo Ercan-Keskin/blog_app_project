@@ -32,7 +32,7 @@ Projenin canlıya alınmış hali: <a href="http://eiknCosmios.pythonanywhere.co
                                   ---------------------
 
 
-# blog_app_project
+# blog_app_project_
 <h2> ERD </h2>  
 ![Model] https://github.com/Ercan-Keskin/blog_app_project/blob/main/ERD.png
 
