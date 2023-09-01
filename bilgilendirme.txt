@@ -1,0 +1,29 @@
+_/*\__/*\__/*\__/*\__/*\__/*\__/*\__/*\__/*\__/*\__/*\__/*\__/*\__/*\__/*\_
+                      Bilgilendirme Notları
+
+*****Ercan*******
+
+Arkadaşlar merhaba, 
+ilk yapmış olduğum createsuperuser => admin
+        kullanıcı adı = admin
+        şifre = 12345
+        email = stajdayiz@gmail.com
+
+      2. kullanıcı => username = Trabzonspor
+      "email":"trabzonspor@gmail.com",
+       "password":"12345678.a"
+
+      3. kullanıcı => username = Dr.Ali
+      "password":"12345678.a"
+
+
+      4. kullanıcı => username =ahmet
+       "password" :"12345678.
+
+
+şifre genelde 12345678.a 
+
+ olurda güncellersek buraya ekleriz. Ekstra olarak 
+ bilgilendirme yapmak isersekte buraya yazabiliriz. Selamlar Saygılar...
+
+

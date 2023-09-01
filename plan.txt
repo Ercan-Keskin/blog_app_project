@@ -1,0 +1,54 @@
+Staj Blog App
+
+
+1- Category Table
+name
+
+2- Blog Table
+title: her title farklı olmak zorunda
+content
+image
+category : Category Tablosu ile uygun olan ilişki kurulmalıdır. ForeigneKey - OneToOne veya ManyToMany
+publish_date
+user : User Tablosu  ile uygun olan ilişki kurulmalıdır. ForeigneKey - OneToOne veya ManyToMany
+status : choices kullanmanızı istiyorum ('d', 'Draft'), ('p', 'Published') şeklinde oluşturabilirsiniz.
+
+3- Comment Table
+user: User Tablosu  ile uygun olan ilişki kurulmalıdır. ForeigneKey - OneToOne veya ManyToMany
+time_stamp
+content
+blog : Blog Tablosu  ile uygun olan ilişki kurulmalıdır. ForeigneKey - OneToOne veya ManyToMany
+
+4- Likes Table
+user: User Tablosu  ile uygun olan ilişki kurulmalıdır. ForeigneKey - OneToOne veya ManyToMany
+blog: Blog Tablosu  ile uygun olan ilişki kurulmalıdır. ForeigneKey - OneToOne veya ManyToMany
+likes
+5- PostViews Table
+user: User Tablosu  ile uygun olan ilişki kurulmalıdır. ForeigneKey - OneToOne veya ManyToMany
+post_views
+blog: Blog Tablosu  ile uygun olan ilişki kurulmalıdır. ForeigneKey - OneToOne veya ManyToMany
+time_stamp
+
+6- Toplam kaç yorum yapıldığını hesaplayan bir method yazılmalı
+
+7- Toplam kaç tane like atıldığını hesaplayın
+
+8- Blogların görüntüleme sayısını hesaplayın
+
+9- User field olan tablolarda user id otomatik olarak token bilgisinden alınmalıdır
+
+10- +category işlemlerinde sadece get işlemini her kullanıcı yapabilir, put post delete işlemlerini sadece staff user yapabilir:
+
+11- Bloglarda get işlemini her kullanıcı yapabilecek update ve delete işlemlerini yalnızca blog sahibi ve staff user yapabilecek:
+
+12-  Kullanıcı eğer blog sahibi ya da staff ise bloglarının status'u 'd' olsa bile görüntüleyip düzenleyebilecek: diğer kullanıcılar sadece status ‘p’ olanları görüntüleyebilecek
+
+13- Kullanıcı staff ise BlogSerializer kullansın değil ise UserBlogSerializer'ı kullansın: bu sebeple Blog için 2 tane serializer oluşturulmalı normal kullanıcılar status field’ını görmeyecek.
+
+14- Blog sayfasının detayına girdiğimizde post_view create edilecek
+
+15- +Her kullanıcı kendi yorumunu düzenleyebilecek herkesin yorumunu görüntüleyebilecek 
+
+28.08.2023
+16- Views tekrar edilecek, permissionda belirlenen yerlere tekrar bakacağız.
+
