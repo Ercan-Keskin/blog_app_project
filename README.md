@@ -7,7 +7,7 @@
 •    We achieved success in this project with a good teamwork organization.
 •    I would like to thank my dear backend trainer Pakize K. and my teammates for their efforts.
 
-To access the Live of the Project: <a href=”http://eiknCosmios.pythonanywhere.com/admin/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+To access the Live of the Project: <a href=”http://eiknCosmios.pythonanywhere.com/admin/"></a>
 
                                   ---------------------
                                   | superuser = admin |
